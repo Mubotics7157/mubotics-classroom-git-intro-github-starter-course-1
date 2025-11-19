@@ -16,7 +16,7 @@
 
 - **Hands-on first.** You’ll implement features you don’t fully “get” yet, then we’ll unpack the math and control theory behind them.
 - **Read the docs.** Weekly pre-reads are short and targeted. Do them.
-- **Version control is your friend.** You’ll use Git + GitHub for every assignment. Learn to love branches and PRs. During season, **never** commit directly to `main`. This is a lesson you don't learn fully until you suddenly have broken robot code, ctrl-z is broken, your computer crashed, and you have a match in 10 minutes.
+- **Version control is your friend.** You’ll use Git + GitHub for every assignment. Learn to love branches and PRs. During season, **never** commit directly to `main`. This is a lesson you do not learn fully until you suddenly have broken robot code, ctrl-z is broken, your computer crashed, and you have a match in 10 minutes.
 - **Logs or it didn’t happen.** Every feature ships with instrumentation and logging. You’ll learn to use logs to diagnose issues. We will focus heavily on the aspects of observability that are most useful for competition.
 
 ---
