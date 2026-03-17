@@ -91,7 +91,7 @@ Note: the assignment below was written using AI, so feel free to utilize it heav
 ## Step-by-Step Guide
 
 1. **Clone your fork**
-   After accepting the assignment, you’ll see a repo called `git-intro-<your-handle>` under the organization's GitHub along with the URL. Clone it:
+   After accepting the assignment, you’ll see a repository called `git-intro-<your-handle>` under the organization's GitHub along with the URL. Clone it:
 
    ```bash
    git clone https://github.com/Mubotics7157/git-intro-<your-handle>.git
